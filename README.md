@@ -26,14 +26,14 @@ To get started with the VirtueQuest Dashboard, follow these steps:
 5. Interact with the dashboard by inputting queries or code and exploring the results.
 
 ## Maintainers
-The VirtueQuest Dashboard project is maintained and contributed to by Nusrat Atika, Ellis Dyke, and Nuzhat Zahan. They are committed to keeping the project up-to-date and welcoming contributions from the community.
+The VirtueQuest Dashboard project is maintained and contributed to by Nusrat Atika (natika@umich.edu), Ellis Dyke (adyke@umich.edu), and Nuzhat Zahan (znuzhat@umich.edu). They are committed to keeping the project up-to-date and welcoming contributions from the community.
 
 ## About
 This project showcases the team's proficiency in practical coding applications and innovative problem-solving. It serves as a culmination of their efforts for a data science course, demonstrating their skills in developing practical solutions using Python and web technologies.
 
 
 ## Support and Feedback
-If you need help with the project or have any feedback, feel free to reach out to the project maintainers by raising an issue on the GitHub repository.
+If you need help with the project or have any feedback, feel free to reach out to the project maintainers through email.
 
 © 2024 VirtueQuest Dashboard Contributors. All rights reserved.
 
