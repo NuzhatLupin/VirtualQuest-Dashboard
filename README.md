@@ -4,6 +4,8 @@
 ## Overview
 The VirtueQuest Dashboard is a Python project developed by an interdisciplinary team consisting of Nusrat Atika, Ellis Dyke, and Nuzhat Zahan. This project aims to provide users with a user-friendly web interface for accessing various tools and information. It utilizes cutting-edge technologies and APIs to offer a seamless experience.
 
+This project serves as a culmination of our efforts for the "SI 568: Introduction to Applied Data Science" course, showcasing our proficiency in practical coding applications and innovative problem-solving.
+
 ## Project Description
 This Python project is a simple web dashboard that lets users run different tools like a Python calculator, Wikipedia search, and internet search using DuckDuckGo. It uses the panel library to make an interactive interface. The project safely handles sensitive data like API keys by loading them from a file. Users can type questions or code into the website, and the dashboard shows the answers. The system uses OpenAI's language technology to process inputs and keeps track of the conversation to make the interaction better. If there are any errors, the dashboard will tell the user what went wrong in a clear way. This setup is great for anyone who needs quick access to information or computational tools through a user-friendly web page.
 Queries Users can ask are: General Knowledge and Facts, Computational or Mathematical Queries, Programming Help, Advice and Recommendations, Language and Translations, Current Events and News.
